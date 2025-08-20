@@ -1,0 +1,16 @@
+"","site","site_type","Monitor","n_observations","seconds_of_bird_sounds","n_species"
+"1","Cleary Garden","garden","FOCG11",4777,14331,24
+"2","Barber Surgeon","garden","FOCG2",4687,14061,18
+"3","Inner Temple","garden","FOCG12",3798,11394,24
+"4","Cannon Bridge","intensive","FOCG9",3242,9726,25
+"5","Aldgate School","intensive","FOCG8",2722,8166,19
+"6","Christchurch Greyfairs","garden","FOCG14",2251,6753,15
+"7","Guildhall","extensive","FOCG5",2163,6489,13
+"8","St Dunstan","garden","FOCG13",1974,5922,15
+"9","Mansion House","conventional","FOCG1",931,2793,12
+"10","Weil","intensive","FOCG6",476,1428,23
+"11","Walbrooke Wharf","conventional","FOCG15",408,1224,12
+"12","Wood Street","extensive","FOCG3",317,951,11
+"13","79 Charterhouse","conventional","FOCG4",271,813,16
+"14","Nomura","extensive","FOCG7",251,753,8
+"15","120 Fenchurch","intensive","FOCG10",160,480,10
