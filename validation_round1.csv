@@ -1,0 +1,83 @@
+,...1,Selection,View,Channel,Begin.Time..s.,End.Time..s.,Low.Freq..Hz.,High.Freq..Hz.,Common.Name,Species.Code,Confidence,Begin.Path,File.Offset..s.,site,Date,Time,site_type,validation,date_of_validation
+1,38990,3234,Spectrogram 1,1,242203.296,242206.296,0,12000,Common Swift,comswi,0.9743,D:/Weil/bird_may_06\FOCG6_20250621_095000.wav,16,Weil,6/21/2025,9:50:00,intensive,VERDADERO,7/8/2025
+2,71749,10915,Spectrogram 1,1,169337.032,169340.032,0,12000,Common Swift,comswi,0.938,D:/Cleary_Garden/bird_may_11\FOCG11_20250612_203000.wav,41,Cleary_Garden,6/12/2025,20:30:00,garden,VERDADERO,7/8/2025
+3,31980,915,Spectrogram 1,1,194437.12,194440.12,0,12000,Common Swift,comswi,0.9384,D:/Charterhouse/bird_may_04\FOCG4_20250615_191000.wav,44,Charterhouse,6/15/2025,19:10:00,conventional,VERDADERO,7/8/2025
+4,31978,913,Spectrogram 1,1,194435.12,194438.12,0,12000,Common Swift,comswi,0.9084,D:/Charterhouse/bird_may_04\FOCG4_20250615_191000.wav,42,Charterhouse,6/15/2025,19:10:00,conventional,VERDADERO,7/8/2025
+5,38986,3230,Spectrogram 1,1,242199.296,242202.296,0,12000,Common Swift,comswi,0.9509,D:/Weil/bird_may_06\FOCG6_20250621_095000.wav,12,Weil,6/21/2025,9:50:00,intensive,VERDADERO,7/8/2025
+6,71750,10916,Spectrogram 1,1,169338.032,169341.032,0,12000,Common Swift,comswi,0.9376,D:/Cleary_Garden/bird_may_11\FOCG11_20250612_203000.wav,42,Cleary_Garden,6/12/2025,20:30:00,garden,VERDADERO,7/8/2025
+7,38988,3232,Spectrogram 1,1,242201.296,242204.296,0,12000,Common Swift,comswi,0.9284,D:/Weil/bird_may_06\FOCG6_20250621_095000.wav,14,Weil,6/21/2025,9:50:00,intensive,VERDADERO,7/8/2025
+8,31979,914,Spectrogram 1,1,194436.12,194439.12,0,12000,Common Swift,comswi,0.947,D:/Charterhouse/bird_may_04\FOCG4_20250615_191000.wav,43,Charterhouse,6/15/2025,19:10:00,conventional,VERDADERO,7/8/2025
+9,38987,3231,Spectrogram 1,1,242200.296,242203.296,0,12000,Common Swift,comswi,0.921,D:/Weil/bird_may_06\FOCG6_20250621_095000.wav,13,Weil,6/21/2025,9:50:00,intensive,VERDADERO,7/8/2025
+10,31110,45,Spectrogram 1,1,12313.504,12316.504,0,12000,Common Swift,comswi,0.9156,D:/Charterhouse/bird_may_04\FOCG4_20250525_104000.wav,20,Charterhouse,5/25/2025,10:40:00,conventional,VERDADERO,7/8/2025
+11,38991,3235,Spectrogram 1,1,242204.296,242207.296,0,12000,Common Swift,comswi,0.927,D:/Weil/bird_may_06\FOCG6_20250621_095000.wav,17,Weil,6/21/2025,9:50:00,intensive,VERDADERO,7/8/2025
+12,38989,3233,Spectrogram 1,1,242202.296,242205.296,0,12000,Common Swift,comswi,0.9269,D:/Weil/bird_may_06\FOCG6_20250621_095000.wav,15,Weil,6/21/2025,9:50:00,intensive,VERDADERO,7/8/2025
+13,2967,2967,Spectrogram 1,1,87493.768,87496.768,0,12000,Eurasian Coot,eurcoo,0.9171,D:/Mansion_House/bird_may_01\FOCG1_20250603_062000.wav,29,Mansion_House,6/3/2025,6:20:00,conventional,FALSO,7/8/2025
+14,86604,24277,Spectrogram 1,1,326506,326509,0,15000,Eurasian Coot,eurcoo,0.9212,D:/canon_bridge/bird_march_09\FOCG9_20250422_021002.wav,22,canon_bridge,4/22/2025,2:10:02,intensive,VERDADERO,7/8/2025
+15,1154,1154,Spectrogram 1,1,34658.74133,34661.74133,0,12000,Eurasian Coot,eurcoo,0.901,D:/Mansion_House/bird_may_01\FOCG1_20250528_013002.wav,32,Mansion_House,5/28/2025,1:30:02,conventional,FALSO,7/8/2025
+16,34337,459,Spectrogram 1,1,73644,73647,0,15000,Eurasian Coot,eurcoo,0.965,D:/Charterhouse/bird_march_04\FOCG4_20250322_193002.wav,40,Charterhouse,3/22/2025,19:30:02,conventional,FALSO,7/8/2025
+17,34335,457,Spectrogram 1,1,73642,73645,0,15000,Eurasian Coot,eurcoo,0.9335,D:/Charterhouse/bird_march_04\FOCG4_20250322_193002.wav,38,Charterhouse,3/22/2025,19:30:02,conventional,FALSO,7/8/2025
+18,19661,1046,Spectrogram 1,1,181972,181975,0,15000,Eurasian Coot,eurcoo,0.9302,D:/Charterhouse/bird_april_04\FOCG4_20250517_185002.wav,24,Charterhouse,5/17/2025,18:50:02,conventional,FALSO,7/8/2025
+19,2966,2966,Spectrogram 1,1,87492.768,87495.768,0,12000,Eurasian Coot,eurcoo,0.9211,D:/Mansion_House/bird_may_01\FOCG1_20250603_062000.wav,28,Mansion_House,6/3/2025,6:20:00,conventional,FALSO,7/8/2025
+20,86603,24276,Spectrogram 1,1,326505,326508,0,15000,Eurasian Coot,eurcoo,0.9696,D:/canon_bridge/bird_march_09\FOCG9_20250422_021002.wav,21,canon_bridge,4/22/2025,2:10:02,intensive,VERDADERO,7/8/2025
+21,7019,7019,Spectrogram 1,1,265452.48,265455.48,0,12000,Eurasian Coot,eurcoo,0.9007,D:/Mansion_House/bird_may_01\FOCG1_20250624_031002.wav,52,Mansion_House,6/24/2025,3:10:02,conventional,FALSO,7/8/2025
+22,34336,458,Spectrogram 1,1,73643,73646,0,15000,Eurasian Coot,eurcoo,0.9452,D:/Charterhouse/bird_march_04\FOCG4_20250322_193002.wav,39,Charterhouse,3/22/2025,19:30:02,conventional,FALSO,7/8/2025
+23,86602,24275,Spectrogram 1,1,326504,326507,0,15000,Eurasian Coot,eurcoo,0.9297,D:/canon_bridge/bird_march_09\FOCG9_20250422_021002.wav,20,canon_bridge,4/22/2025,2:10:02,intensive,VERDADERO,7/8/2025
+24,187682,4551,Spectrogram 1,1,326503,326506,0,15000,Eurasian Coot,eurcoo,0.9562,D:/Wallbrooke_Whart/bird_march_15\FOCG15_20250422_021002.wav,19,Wallbrooke_Whart,4/22/2025,2:10:02,conventional,FALSO,7/8/2025
+25,87069,182,Spectrogram 1,1,44174,44177,0,15000,Peregrine Falcon,perfal,0.9209,D:/120_fenchurch/bird_march_10\FOCG10_20250319_065002.wav,34,120_fenchurch,3/19/2025,6:50:02,intensive,VERDADERO,7/8/2025
+26,87076,189,Spectrogram 1,1,44181,44184,0,15000,Peregrine Falcon,perfal,0.9486,D:/120_fenchurch/bird_march_10\FOCG10_20250319_065002.wav,41,120_fenchurch,3/19/2025,6:50:02,intensive,VERDADERO,7/8/2025
+27,38149,2393,Spectrogram 1,1,181916.424,181919.424,0,12000,Peregrine Falcon,perfal,0.9722,D:/Weil/bird_may_06\FOCG6_20250614_081000.wav,9,Weil,6/14/2025,8:10:00,intensive,VERDADERO,7/8/2025
+28,87073,186,Spectrogram 1,1,44178,44181,0,15000,Peregrine Falcon,perfal,0.9353,D:/120_fenchurch/bird_march_10\FOCG10_20250319_065002.wav,38,120_fenchurch,3/19/2025,6:50:02,intensive,VERDADERO,7/8/2025
+29,38148,2392,Spectrogram 1,1,181915.424,181918.424,0,12000,Peregrine Falcon,perfal,0.9467,D:/Weil/bird_may_06\FOCG6_20250614_081000.wav,8,Weil,6/14/2025,8:10:00,intensive,VERDADERO,7/8/2025
+30,38144,2388,Spectrogram 1,1,181911.424,181914.424,0,12000,Peregrine Falcon,perfal,0.948,D:/Weil/bird_may_06\FOCG6_20250614_081000.wav,4,Weil,6/14/2025,8:10:00,intensive,VERDADERO,7/8/2025
+31,38153,2397,Spectrogram 1,1,181962.424,181965.424,0,12000,Peregrine Falcon,perfal,0.9566,D:/Weil/bird_may_06\FOCG6_20250614_081000.wav,55,Weil,6/14/2025,8:10:00,intensive,VERDADERO,7/8/2025
+32,31436,371,Spectrogram 1,1,79491.072,79494.072,0,12000,Peregrine Falcon,perfal,0.9291,D:/Charterhouse/bird_may_04\FOCG4_20250602_075000.wav,12,Charterhouse,6/2/2025,7:50:00,conventional,VERDADERO,7/8/2025
+33,87072,185,Spectrogram 1,1,44177,44180,0,15000,Peregrine Falcon,perfal,0.9542,D:/120_fenchurch/bird_march_10\FOCG10_20250319_065002.wav,37,120_fenchurch,3/19/2025,6:50:02,intensive,VERDADERO,7/8/2025
+34,38147,2391,Spectrogram 1,1,181914.424,181917.424,0,12000,Peregrine Falcon,perfal,0.9699,D:/Weil/bird_may_06\FOCG6_20250614_081000.wav,7,Weil,6/14/2025,8:10:00,intensive,VERDADERO,7/8/2025
+35,46370,2687,Spectrogram 1,1,99880,99883,0,15000,Redwing,redwin,0.9142,D:/Weil/bird_march_06\FOCG6_20250325_230002.wav,2,Weil,3/25/2025,23:00:02,intensive,FALSO,7/8/2025
+36,100323,11946,Spectrogram 1,1,102041,102044,0,15000,Redwing,redwin,0.9575,D:/Cleary_Garden/bird_march_11\FOCG11_20250326_051002.wav,17,Cleary_Garden,3/26/2025,5:10:02,garden,FALSO,7/8/2025
+37,37357,1666,Spectrogram 1,1,100484,100487,0,15000,Redwing,redwin,0.9184,D:/Guildhall/bird_march_05\FOCG5_20250326_004002.wav,26,Guildhall,3/26/2025,0:40:02,extensive,FALSO,7/8/2025
+38,36618,927,Spectrogram 1,1,59105,59108,0,15000,Redwing,redwin,0.9152,D:/Guildhall/bird_march_05\FOCG5_20250321_015002.wav,1,Guildhall,3/21/2025,1:50:02,extensive,FALSO,7/8/2025
+39,184836,1705,Spectrogram 1,1,93057,93060,0,15000,Redwing,redwin,0.9529,D:/Wallbrooke_Whart/bird_march_15\FOCG15_20250325_032002.wav,23,Wallbrooke_Whart,3/25/2025,3:20:02,conventional,FALSO,7/8/2025
+40,118293,29916,Spectrogram 1,1,294687,294690,0,15000,Redwing,redwin,0.9278,D:/Cleary_Garden/bird_march_11\FOCG11_20250418_064002.wav,45,Cleary_Garden,4/18/2025,6:40:02,garden,FALSO,7/8/2025
+41,21018,620,Spectrogram 1,1,91840.976,91843.976,0,15000,Redwing,redwin,0.9378,D:/Guildhall/bird_feb_05\FOCG5_20250226_000002.wav,22,Guildhall,2/26/2025,0:00:02,extensive,FALSO,7/8/2025
+42,46177,2494,Spectrogram 1,1,92978,92981,0,15000,Redwing,redwin,0.9444,D:/Weil/bird_march_06\FOCG6_20250325_031002.wav,2,Weil,3/25/2025,3:10:02,intensive,FALSO,7/8/2025
+43,37200,1509,Spectrogram 1,1,92930,92933,0,15000,Redwing,redwin,0.9234,D:/Guildhall/bird_march_05\FOCG5_20250325_030002.wav,12,Guildhall,3/25/2025,3:00:02,extensive,FALSO,7/8/2025
+44,104105,15728,Spectrogram 1,1,136948,136951,0,15000,Redwing,redwin,0.9497,D:/Cleary_Garden/bird_march_11\FOCG11_20250330_093002.wav,8,Cleary_Garden,3/30/2025,9:30:02,garden,FALSO,7/8/2025
+45,46360,2677,Spectrogram 1,1,99796,99799,0,15000,Redwing,redwin,0.9414,D:/Weil/bird_march_06\FOCG6_20250325_224002.wav,34,Weil,3/25/2025,22:40:02,intensive,FALSO,7/8/2025
+46,66877,4550,Spectrogram 1,1,68087,68090,0,15000,Redwing,redwin,0.9314,D:/canon_bridge/bird_march_09\FOCG9_20250322_033002.wav,51,canon_bridge,3/22/2025,3:30:02,intensive,FALSO,7/8/2025
+47,20928,530,Spectrogram 1,1,84091.976,84094.976,0,15000,Redwing,redwin,0.9101,D:/Guildhall/bird_feb_05\FOCG5_20250225_014002.wav,45,Guildhall,2/25/2025,1:40:02,extensive,FALSO,7/8/2025
+48,128627,6802,Spectrogram 1,1,62980,62983,0,15000,Redwing,redwin,0.9024,D:/Inner_Temple/bird_march_12\FOCG12_20250321_125002.wav,48,Inner_Temple,3/21/2025,12:50:02,garden,FALSO,7/8/2025
+49,46349,2666,Spectrogram 1,1,99673,99676,0,15000,Redwing,redwin,0.9134,D:/Weil/bird_march_06\FOCG6_20250325_222002.wav,27,Weil,3/25/2025,22:20:02,intensive,FALSO,7/8/2025
+50,37181,1490,Spectrogram 1,1,92804,92807,0,15000,Redwing,redwin,0.9411,D:/Guildhall/bird_march_05\FOCG5_20250325_024002.wav,2,Guildhall,3/25/2025,2:40:02,extensive,FALSO,7/8/2025
+51,128626,6801,Spectrogram 1,1,62979,62982,0,15000,Redwing,redwin,0.9284,D:/Inner_Temple/bird_march_12\FOCG12_20250321_125002.wav,47,Inner_Temple,3/21/2025,12:50:02,garden,FALSO,7/8/2025
+52,100801,12424,Spectrogram 1,1,109304,109307,0,15000,Redwing,redwin,0.9276,D:/Cleary_Garden/bird_march_11\FOCG11_20250327_020002.wav,30,Cleary_Garden,3/27/2025,2:00:02,garden,FALSO,7/8/2025
+53,37208,1517,Spectrogram 1,1,93029,93032,0,15000,Redwing,redwin,0.9416,D:/Guildhall/bird_march_05\FOCG5_20250325_031002.wav,53,Guildhall,3/25/2025,3:10:02,extensive,FALSO,7/8/2025
+54,54570,10373,Spectrogram 1,1,133418,133421,0,15000,Redwing,redwin,0.9076,D:/Cleary_Garden/bird_april_11\FOCG11_20250511_232002.wav,16,Cleary_Garden,5/11/2025,23:20:02,garden,FALSO,7/8/2025
+55,23582,1748,Spectrogram 1,1,131234.984,131237.984,0,15000,Song Thrush,sonthr1,0.9002,D:/Weil/bird_feb_06\FOCG6_20250302_170002.wav,43,Weil,3/2/2025,17:00:02,intensive,FALSO,7/9/2025
+56,114785,26408,Spectrogram 1,1,259180,259183,0,15000,Song Thrush,sonthr1,0.9345,D:/Cleary_Garden/bird_march_11\FOCG11_20250414_004002.wav,34,Cleary_Garden,4/14/2025,0:40:02,garden,FALSO,7/9/2025
+57,90955,2578,Spectrogram 1,1,24130,24133,0,15000,Song Thrush,sonthr1,0.9263,D:/Cleary_Garden/bird_march_11\FOCG11_20250316_212002.wav,0,Cleary_Garden,3/16/2025,21:20:02,garden,FALSO,7/9/2025
+58,45241,9931,Spectrogram 1,1,83783.99467,83786.99467,0,15000,Song Thrush,sonthr1,0.9102,D:/Cleary_Garden/bird_feb_11\FOCG11_20250225_004002.wav,32,Cleary_Garden,2/25/2025,0:40:02,garden,FALSO,7/9/2025
+59,61761,927,Spectrogram 1,1,15201.504,15204.504,0,12000,Song Thrush,sonthr1,0.9093,D:/Cleary_Garden/bird_may_11\FOCG11_20250525_184000.wav,28,Cleary_Garden,5/25/2025,18:40:00,garden,FALSO,7/9/2025
+60,35337,1459,Spectrogram 1,1,270080,270083,0,15000,Song Thrush,sonthr1,0.9009,D:/Charterhouse/bird_march_04\FOCG4_20250415_080002.wav,30,Charterhouse,4/15/2025,8:00:02,conventional,FALSO,7/9/2025
+61,93117,4740,Spectrogram 1,1,41972,41975,0,15000,Song Thrush,sonthr1,0.9252,D:/Cleary_Garden/bird_march_11\FOCG11_20250319_003002.wav,36,Cleary_Garden,3/19/2025,0:30:02,garden,FALSO,7/9/2025
+62,23450,1616,Spectrogram 1,1,125541.9867,125544.9867,0,15000,Song Thrush,sonthr1,0.9094,D:/Weil/bird_feb_06\FOCG6_20250302_004002.wav,33,Weil,3/2/2025,0:40:02,intensive,FALSO,7/9/2025
+63,30256,706,Spectrogram 1,1,16701,16704,0,15000,Song Thrush,sonthr1,0.9278,D:/Algate_School/bird_april_08\FOCG8_20250427_235002.wav,53,Algate_School,4/27/2025,23:50:02,intensive,FALSO,7/9/2025
+64,104143,15766,Spectrogram 1,1,137807,137810,0,15000,Song Thrush,sonthr1,0.9228,D:/Cleary_Garden/bird_march_11\FOCG11_20250330_115002.wav,55,Cleary_Garden,3/30/2025,11:50:02,garden,FALSO,7/9/2025
+65,100770,12393,Spectrogram 1,1,108897,108900,0,15000,Song Thrush,sonthr1,0.9273,D:/Cleary_Garden/bird_march_11\FOCG11_20250327_005002.wav,29,Cleary_Garden,3/27/2025,0:50:02,garden,FALSO,7/9/2025
+66,92142,3765,Spectrogram 1,1,33734,33737,0,15000,Song Thrush,sonthr1,0.9249,D:/Cleary_Garden/bird_march_11\FOCG11_20250318_005002.wav,34,Cleary_Garden,3/18/2025,0:50:02,garden,FALSO,7/9/2025
+67,31312,4469,Spectrogram 1,1,122970,122973,0,15000,Song Thrush,sonthr1,0.9251,D:/Algate_School/bird_feb_08\FOCG8_20250301_172002.wav,8,Algate_School,3/1/2025,17:20:02,intensive,FALSO,7/9/2025
+68,49703,14393,Spectrogram 1,1,124044.9867,124047.9867,0,15000,Song Thrush,sonthr1,0.9052,D:/Cleary_Garden/bird_feb_11\FOCG11_20250301_202002.wav,44,Cleary_Garden,3/1/2025,20:20:02,garden,FALSO,7/9/2025
+69,47122,11812,Spectrogram 1,1,100707.9947,100710.9947,0,15000,Song Thrush,sonthr1,0.9129,D:/Cleary_Garden/bird_feb_11\FOCG11_20250227_012002.wav,20,Cleary_Garden,2/27/2025,1:20:02,garden,FALSO,7/9/2025
+70,50335,6138,Spectrogram 1,1,50993,50996,0,15000,Song Thrush,sonthr1,0.907,D:/Cleary_Garden/bird_april_11\FOCG11_20250502_023002.wav,9,Cleary_Garden,5/2/2025,2:30:02,garden,FALSO,7/9/2025
+71,47983,12673,Spectrogram 1,1,109007.992,109010.992,0,15000,Song Thrush,sonthr1,0.9053,D:/Cleary_Garden/bird_feb_11\FOCG11_20250228_011002.wav,27,Cleary_Garden,2/28/2025,1:10:02,garden,FALSO,7/9/2025
+72,61050,8868,Spectrogram 1,1,294902,294905,0,15000,Song Thrush,sonthr1,0.9181,D:/Algate_School/bird_march_08\FOCG8_20250418_072002.wav,28,Algate_School,4/18/2025,7:20:02,other,FALSO,7/9/2025
+73,48472,4789,Spectrogram 1,1,181547,181550,0,15000,Song Thrush,sonthr1,0.9093,D:/Weil/bird_march_06\FOCG6_20250404_174002.wav,5,Weil,4/4/2025,17:40:02,intensive,FALSO,7/9/2025
+74,43895,212,Spectrogram 1,1,12777,12780,0,15000,Song Thrush,sonthr1,0.9166,D:/Weil/bird_march_06\FOCG6_20250315_124002.wav,15,Weil,3/15/2025,12:40:02,intensive,FALSO,7/9/2025
+75,69261,8427,Spectrogram 1,1,119713.7173,119716.7173,0,12000,Tawny Owl,tawowl1,0.9056,D:/Cleary_Garden/bird_may_11\FOCG11_20250607_010002.wav,4,Cleary_Garden,6/7/2025,1:00:02,garden,FALSO,7/9/2025
+76,36198,442,Spectrogram 1,1,41261.592,41264.592,0,12000,Tawny Owl,tawowl1,0.9044,D:/Weil/bird_may_06\FOCG6_20250528_200000.wav,31,Weil,5/28/2025,20:00:00,intensive,FALSO,7/9/2025
+77,40736,394,Spectrogram 1,1,16492.45067,16495.45067,0,12000,Tawny Owl,tawowl1,0.9173,D:/Algate_School/bird_may_08\FOCG8_20250525_222002.wav,19,Algate_School,5/25/2025,22:20:02,intensive,FALSO,7/9/2025
+78,2,2,Spectrogram 1,1,1097,1100,0,15000,Tawny Owl,tawowl1,0.9062,D:/Mansion_House/bird_march_01\FOCG1_20250314_030002.wav,51,Mansion_House,3/14/2025,3:00:02,conventional,FALSO,7/9/2025
+79,184172,1041,Spectrogram 1,1,63039,63042,0,15000,Tawny Owl,tawowl1,0.9022,D:/Wallbrooke_Whart/bird_march_15\FOCG15_20250321_130002.wav,49,Wallbrooke_Whart,3/21/2025,13:00:02,conventional,FALSO,7/9/2025
+80,60615,1010,Spectrogram 1,1,248391.0853,248394.0853,0,12000,Tawny Owl,tawowl1,0.916,D:/120_fenchurch/bird_may_10\FOCG10_20250622_031002.wav,43,120_fenchurch,6/22/2025,3:10:02,intensive,FALSO,7/9/2025
+81,43974,3632,Spectrogram 1,1,126344.552,126347.552,0,12000,Tawny Owl,tawowl1,0.9071,D:/Algate_School/bird_may_08\FOCG8_20250607_193000.wav,37,Algate_School,6/7/2025,19:30:00,intensive,FALSO,7/9/2025
+82,60682,1077,Spectrogram 1,1,258673.6827,258676.6827,0,12000,Tawny Owl,tawowl1,0.9133,D:/120_fenchurch/bird_may_10\FOCG10_20250623_081000.wav,37,120_fenchurch,6/23/2025,8:10:00,intensive,FALSO,7/9/2025
